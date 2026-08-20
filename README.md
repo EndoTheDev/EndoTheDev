@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # EndoTheDev
 
 Self-taught developer building tools around local AI and LLMs. Based in Bangkok.
