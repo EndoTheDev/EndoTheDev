@@ -25,7 +25,7 @@ Building tooling around Ollama. Open to remote backend and AI infrastructure wor
 
 - [endothedev@gmail.com](mailto:endothedev@gmail.com)
 - [Fiverr (@endothedev)](https://www.fiverr.com/endothedev)
-- [LinkedIn](https://www.linkedin.com/in/endothedev)
+- [LinkedIn](https://www.linkedin.com/in/kristian-hilgert-95b6a0351/)
 
 ---
 
