@@ -1,24 +1,22 @@
 # EndoTheDev <a href="https://github.com/sponsors/EndoTheDev"><img src="https://img.shields.io/github/sponsors/EndoTheDev?style=social&label=Sponsor" alt="Sponsor me on GitHub" height="40"></a>
 
-Self-taught developer building tools around local AI and LLMs. Based in Bangkok.
-Python · Go · TypeScript · Flutter.
+Self-taught developer building tools around local AI and LLMs. Based in Pattaya.
 
 ## Projects
 
-- **[Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama)** (481⭐): curated list of Ollama UIs, frameworks, libraries, and resources
+- **[Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama)** (490⭐): curated list of Ollama UIs, frameworks, libraries, and resources
 - **[OMeter](https://github.com/EndoTheDev/OMeter)** (Python): benchmark and compare Ollama models across local and cloud endpoints
 - **[OllaMoMa-v2](https://github.com/EndoTheDev/OllaMoMa-v2)** (Vue/Nuxt): web interface for Ollama with themes and model management
 - **[omega](https://github.com/EndoTheDev/omega)** (Go): terminal AI coding agent with session tree, compaction, and tools
-- **[allocate.d](https://github.com/EndoTheDev/allocate.d)** (Go + Flutter): reverse proxy for Ollama Cloud with key rotation and a dashboard
 - **[AgentO](https://github.com/EndoTheDev/AgentO)** (Python): minimalist AI agent in ~300 lines
 
 ## Stack
 
-Python · Go · TypeScript/Vue · Dart/Flutter · C# · Ollama · Docker · FastAPI · SQLite · Git · Linux
+Python · Go · TypeScript/Nuxt/Vue · Docker · FastAPI · SQLite · Git · Linux
 
 ## Currently
 
-Building tooling around Ollama. Open to remote backend and AI infrastructure work.
+Building tools around Ollama. Open to remote backend and AI infrastructure work.
 
 ## Contact
 
