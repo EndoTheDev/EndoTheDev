@@ -1,4 +1,4 @@
-# EndoTheDev
+# EndoTheDev <a href="https://github.com/sponsors/EndoTheDev"><img src="https://img.shields.io/github/sponsors/EndoTheDev?style=social&label=Sponsor" alt="Sponsor me on GitHub" height="40"></a>
 
 Self-taught developer building tools around local AI and LLMs. Based in Bangkok.
 Python · Go · TypeScript · Flutter.
@@ -14,8 +14,7 @@ Python · Go · TypeScript · Flutter.
 
 ## Stack
 
-Python · Go · TypeScript/Vue · Dart/Flutter · C#
-Ollama · Docker · FastAPI · SQLite · Git · Linux
+Python · Go · TypeScript/Vue · Dart/Flutter · C# · Ollama · Docker · FastAPI · SQLite · Git · Linux
 
 ## Currently
 
@@ -24,7 +23,6 @@ Building tooling around Ollama. Open to remote backend and AI infrastructure wor
 ## Contact
 
 - [endothedev@gmail.com](mailto:endothedev@gmail.com)
-- [![Sponsor](https://img.shields.io/github/sponsors/EndoTheDev?style=social&label=Sponsor)](https://github.com/sponsors/EndoTheDev)
 - [Fiverr (@endothedev)](https://www.fiverr.com/endothedev)
 - [Ko-fi](https://ko-fi.com/endothedev)
 - [LinkedIn](https://www.linkedin.com/in/kristian-hilgert-95b6a0351/)
